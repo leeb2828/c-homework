@@ -8,15 +8,15 @@ Read the number using %d, then break into two digits. Hint: if n is an integer, 
 
 <br />
 
-<span>2.</span>Extend the program in Programming Project 1 to handle three-digit numbers.
+<span>2.</span> Extend the program in Programming Project 1 to handle three-digit numbers.
 
 <br />
 
-<span>3.</span>Rewrite the program in Programming Project 2 so that it prints the reversal of a three-digit number without using arithmetic to split the number into digits. Hint: See the upc.c program of Section 4.1
+<span>3.</span> Rewrite the program in Programming Project 2 so that it prints the reversal of a three-digit number without using arithmetic to split the number into digits. Hint: See the upc.c program of Section 4.1
 
 <br />
 
-<span>4.</span>Write a program that reads an integer entered by the user and displays it in octal (base 8):<br />
+<span>4.</span> Write a program that reads an integer entered by the user and displays it in octal (base 8):<br />
 Enter a number between 0 and 32767: 1953<br />
 In octal, your number is: 03641<br />
 <br />
@@ -24,14 +24,14 @@ The output should be displayed using five digits, even if fewer digits are suffi
 
 <br />
 
-<span>5.</span>Rewrite the upc.c program of Section 4.1 so that the user enters 11 digits at one time, instead of entering one digit, then five digits, and then another five digits.<br />
+<span>5.</span> Rewrite the upc.c program of Section 4.1 so that the user enters 11 digits at one time, instead of entering one digit, then five digits, and then another five digits.<br />
 
 Enter the first 11 digits of a UPC: 01380015173<br />
 Check digit: 5
 
 <br />
 
-<span>6.</span>European countries use a 13-digit code, known as a European Article Number (EAN) instead of the 12-digit Universal Product Code (UPC) found in North Americal. Each EAN ends with a check digit, just as a UPC does. This technique for calculating the check digit is also similiar:<br />
+<span>6.</span> European countries use a 13-digit code, known as a European Article Number (EAN) instead of the 12-digit Universal Product Code (UPC) found in North Americal. Each EAN ends with a check digit, just as a UPC does. This technique for calculating the check digit is also similiar:<br />
 <br />
 Add the second, fourth, dixth, eighth, tenth, and twelfth digits.<br />
 Add the first, third, fifth, seventh, ninth, and eleventh digits.<br />

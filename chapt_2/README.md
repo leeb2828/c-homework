@@ -1,6 +1,6 @@
 <p align="center">Programming Assignments</p>
 
-<span>1</span>. Write a program that uses printf to display the following picture to the screen:
+<span>1.</span> Write a program that uses printf to display the following picture to the screen:
 <pre>
        *
       *
