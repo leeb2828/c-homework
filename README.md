@@ -1,5 +1,5 @@
-These are all the assignments I completed from from the book<br />
-"C Programming - A Modern Approach", Second Edition<br />by K.N. King 
+<h4 align="center">These are all the assignments I completed from from the book<br />
+"C Programming - A Modern Approach", Second Edition<br />by K.N. King</h4>
 
 <br />
 <br />
