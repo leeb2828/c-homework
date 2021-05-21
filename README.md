@@ -4,7 +4,7 @@ These are all the assignments I completed from from the book<br />
 <br />
 <br />
 
-<p align="center">How to run any of the C programs</p>
+<h4 align="center">How to run any of the C programs</h4>
 
 First, confirm that your C compiler is working. Inside your terminal, type
 
