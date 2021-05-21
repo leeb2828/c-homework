@@ -9,10 +9,11 @@ First, confirm that your C compiler is working. Inside your terminal, type:
 ```
 $ cc --version
 ```
-or
+or 
 ```
 $ gcc --version
 ```
+
 <br />
 
 If your C compiler is not working (Mac OSX)
