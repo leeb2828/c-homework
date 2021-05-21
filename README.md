@@ -5,9 +5,9 @@ These are all the assignments I completed from from the book
 <br />
 
 <p align="center">How to run any of the C programs</p>
-First, confirm that your C compiler is working. Inside your terminal, type:
+First, confirm that your C compiler is working. Inside your terminal, type
 ```
-$ cc --version
+  $ cc --version
 ```
 or 
 ```
