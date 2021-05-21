@@ -7,18 +7,11 @@ These are all the assignments I completed from from the book
 <p align="center">How to run any of the C programs</p>
 
 First, confirm that your C compiler is working. Inside your terminal, type
-#### check if maven is already installed
+
 ```
-$ mvn --version
-```
-```
-  $ cc --version
+$ cc --version
 ```
 or 
-#### check if maven is already installed
-```
-$ mvn --version
-```
 ```
 $ gcc --version
 ```
